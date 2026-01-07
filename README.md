@@ -8,7 +8,7 @@
 
   <div>
     <a href="https://instagram.com/h12i.1"><img src="https://img.shields.io/badge/Instagram-h12i.1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=hu12s1&style=for-the-badge&color=02569B&label=Profile+Views" />
+    <a href="mailto:hussainhhh263@gmail.com"><img src="https://img.shields.io/badge/Email-hussainhhh263-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </div>
 </div>
 
@@ -45,16 +45,17 @@
 
 ---
 
-## 📊 إحصائيات البرمجة الرقمية | Digital Coding Stats
+## 📊 إحصائيات البرمجة | Digital Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hu12s1&show_icons=true&theme=vue-dark&hide_border=true&title_color=00dbff&icon_color=00dbff&text_color=fff&bg_color=1c1c1c" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu12s1&layout=compact&theme=vue-dark&hide_border=true&title_color=00dbff&icon_color=00dbff&text_color=fff&bg_color=1c1c1c" width="43%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hu12s1&show_icons=true&theme=neon&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu12s1&layout=compact&theme=neon&hide_border=true" width="43%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hu12s1&theme=tokyonight&hide_border=true" width="92%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hu12s1&theme=neon&hide_border=true" width="92%" />
 
 </div>
 
@@ -62,6 +63,10 @@
 
 ## ✉️ تواصل معي | Connect with Me
 <div align="center">
+  <a href="mailto:hussainhhh263@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hussainhhh263@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
   <a href="https://instagram.com/h12i.1">
     <img src="https://img.shields.io/badge/Instagram-h12i.1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
   </a>
