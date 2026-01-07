@@ -28,36 +28,33 @@
     <td align="center" width="200"> <b>Core Languages</b> </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/UI/UX-Responsive-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
     </td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><br>
+    <td align="center">
       <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black"/><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 إحصائيات البرمجة | GitHub Stats
+## 📊 إحصائيات البرمجة الرقمية | Digital Coding Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hu12s1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu12s1&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=hu12s1&show_icons=true&theme=vue-dark&hide_border=true&title_color=00dbff&icon_color=00dbff&text_color=fff&bg_color=1c1c1c" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu12s1&layout=compact&theme=vue-dark&hide_border=true&title_color=00dbff&icon_color=00dbff&text_color=fff&bg_color=1c1c1c" width="43%" />
 
 <br>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=hu12s1&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hu12s1&theme=tokyonight&hide_border=true" width="92%" />
 
 </div>
 
