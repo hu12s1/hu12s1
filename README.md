@@ -1,42 +1,77 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Hussain%20Hider&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+  <h3> 📱 Flutter Developer | Computer Science Graduate 🎓 </h3>
+  <p> <b>Specialized in building robust Sales, ERP & Inventory Systems</b> </p>
 
-<h1> Hi, I'm Hussain Haider 👋 </h1>
-<p><strong> Computer Science Graduate | Flutter Developer </strong></p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="120"/>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=h12i.1&style=flat&color=blue&label=PROFILE+VIEWS)
-[![Instagram](https://img.shields.io/badge/Instagram-h12i.1-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/h12i.1)
-<br>
+  <div>
+    <a href="https://instagram.com/h12i.1"><img src="https://img.shields.io/badge/Instagram-h12i.1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=hu12s1&style=for-the-badge&color=02569B&label=Profile+Views" />
+  </div>
 </div>
 
-<hr></hr>
+---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-blue)
-![semicolon](https://img.shields.io/badge/-%3A-blue)
+## 🚀 عني | About Me
+مطور تطبيقات **Flutter** مهتم ببناء حلول برمجية متكاملة للأعمال. أتميز بالقدرة على تصميم أنظمة تعمل بكفاءة عالية بدون إنترنت (**Offline-first**) مع مزامنة دقيقة للبيانات السحابية.
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+---
 
-```dart
-class Bio extends HussainHaider {
-  final String role = "Flutter Developer";
-  final String education = "Computer Science Graduate";
-  
-  final Map<String, List<String>> techStack = {
-    "Mobile": ["Flutter", "Dart"],
-    "Backend/DB": ["Supabase", "Sqflite", "Firebase"],
-    "Languages": ["C++", "Python", "JavaScript", "HTML/CSS"],
-    "Tools": ["Git", "VS Code", "Android Studio"]
-  };
-}
+## 🛠 الترسانة التقنية | Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"> <b>Frontend</b> </td>
+    <td align="center" width="200"> <b>Backend & DB</b> </td>
+    <td align="center" width="200"> <b>Core Languages</b> </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/UI/UX-Responsive-orange?style=flat-square"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 إحصائيات البرمجة | GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hu12s1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu12s1&layout=compact&theme=radical&hide_border=true" />
+
+<br>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=hu12s1&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## ✉️ تواصل معي | Connect with Me
+<div align="center">
+  <a href="https://instagram.com/h12i.1">
+    <img src="https://img.shields.io/badge/Instagram-h12i.1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" width="100%"/>
+</div>
