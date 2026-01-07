@@ -8,7 +8,7 @@
 
   <div>
     <a href="https://instagram.com/h12i.1"><img src="https://img.shields.io/badge/Instagram-h12i.1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="mailto:hussainhhh263@gmail.com"><img src="https://img.shields.io/badge/Email-hussainhhh263-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=hu12s1&style=for-the-badge&color=02569B&label=Profile+Views" />
   </div>
 </div>
 
