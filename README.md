@@ -8,6 +8,7 @@
 
   <div>
     <a href="https://instagram.com/h12i.1"><img src="https://img.shields.io/badge/Instagram-h12i.1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="mailto:hussainhhh263@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=hu12s1&style=for-the-badge&color=02569B&label=Profile+Views" />
   </div>
 </div>
@@ -15,47 +16,30 @@
 ---
 
 ## 🚀 عني | About Me
-مطور تطبيقات **Flutter** مهتم ببناء حلول برمجية متكاملة للأعمال. أتميز بالقدرة على تصميم أنظمة تعمل بكفاءة عالية بدون إنترنت (**Offline-first**) مع مزامنة دقيقة للبيانات السحابية.
-
----
-
-## 🛠 الترسانة التقنية | Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="200"> <b>Frontend</b> </td>
-    <td align="center" width="200"> <b>Backend & DB</b> </td>
-    <td align="center" width="200"> <b>Core Languages</b> </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black"/><br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+مطور تطبيقات **Flutter** متخصص في أنظمة الأعمال (**ERP, Sales, Inventory**). أركز على بناء تطبيقات تعمل بكفاءة عالية بدون إنترنت مع مزامنة دقيقة للبيانات السحابية.
 
 ---
 
 ## 📊 إحصائيات البرمجة | Digital Stats
 
 <div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hu12s1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Hussain Stats" />
+  
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hu12s1&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&cache_seconds=1800" alt="Most Used Languages" />
+  
+  
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hu12s1&show_icons=true&theme=neon&hide_border=true" width="48%" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu12s1&layout=compact&theme=neon&hide_border=true" width="43%" />
+## 🛠 الترسانة التقنية | Tech Stack
 
-<br>
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hu12s1&theme=neon&hide_border=true" width="92%" />
+| Frontend | Backend & DB | Programming |
+| :--- | :--- | :--- |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black) |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 
 </div>
 
